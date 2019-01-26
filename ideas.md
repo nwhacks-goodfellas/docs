@@ -27,6 +27,7 @@
   - Job applied to, dates
   - Relevant files: emails, cover letters, resumes
   - Stage in application process
+  - Geolocation: tech companies within `x` distance
 -Growing up
   -Allows reporting a bully: displays evidence to respective tutors/teachers/mentors.
   -Maintains privacy of all involved parties: both the bully and the bullied person
@@ -48,6 +49,9 @@
 ## Resources
 
 - Arduino
+  - Servos
+  - Motors
+  - 
 - 3D Printing
 
 ## Exclusivity
