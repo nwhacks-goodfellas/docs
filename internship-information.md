@@ -22,7 +22,26 @@
 
 ## Key Features
 
-- Job applied to, dates
-- Relevant files: emails, cover letters, resumes
-- Stage in application process
+- Job posting
+  - Company Name
+  - Job Title
+  - Company URL
+  - Listing URL
+  - Date posted
+  - Date applied
+  - Expiration date
+  - Relevant files
+    - Resume
+    - Cover letter
+    - Emails
+  - Stage in application process (not applied, waiting for response, interview, offer)
+  - Contact information
+- Overview of job postings
+  - List view
+  - Icon view
+  - Graph
 - Geolocation: tech companies within `x` distance
+  - Set location
+  - Select + display range
+  - Collect companies within that range
+  -
