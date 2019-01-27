@@ -31,6 +31,8 @@
   - Date posted
   - Date applied
   - Expiration date
+  - **Required skills**
+    - Comparing between jobs?
   - Relevant files
     - Resume
     - Cover letter
@@ -58,3 +60,8 @@
 
 - Follow-up status
   - Push/email notifications
+
+## Future features
+
+- Application document generation
+  - Add profile details (name, C.V., etc.) on our app
