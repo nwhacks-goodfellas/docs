@@ -4,15 +4,17 @@
 
 - Domain
   - Free 1 year from MLH
+  - hackp.ac/domains
+  - Code MLH2019
 - Web hosting
-
+  - Google cloud?
 - Front-end tech
   - React JS
+  - SASS
 - Back-end tech
   - Logic
-    - Node.js
+    - Node.js:v11.8
     - Django
-    - 
   - Database
     - Google Cloud
     - Heroku
