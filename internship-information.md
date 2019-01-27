@@ -25,6 +25,7 @@
 - Job posting
   - Company Name
   - Job Title
+  - Location
   - Company URL
   - Listing URL
   - Date posted
@@ -44,4 +45,16 @@
   - Set location
   - Select + display range
   - Collect companies within that range
-  -
+- Integrating APIs to scrape data
+- Database
+
+## APIs
+
+- Indeed
+- Monster
+- Google Places
+
+## Other features
+
+- Follow-up status
+  - Push/email notifications
